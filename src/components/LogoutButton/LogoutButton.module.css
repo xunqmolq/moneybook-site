@@ -1,0 +1,23 @@
+.btn {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.04em;
+  text-decoration: underline;
+
+  color: var(--secondary-text);
+  background-color: transparent;
+  border: none;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+
+  fill: var(--btn-logout);
+}
+
+.btn {
+  position: relative;
+  display: block;
+}
